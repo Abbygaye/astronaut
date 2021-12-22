@@ -68,7 +68,7 @@ body {
 }
 
 .canvas::before {
-    content: 'untethered spacecoder by Abbygaye';    
+    content: 'Untethered spacecoder by Abbygaye';    
     color: #fff;
     font-family: 'Major Mono Display', monospace;
     font-size: 2.5vmin;
